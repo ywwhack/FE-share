@@ -1,0 +1,7 @@
+{
+  "name": "say-to-chrome",
+  "version": "0.0.1",
+  "bin": {
+    "say": "dist/index.js"
+  }
+}
